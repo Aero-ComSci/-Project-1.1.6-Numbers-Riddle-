@@ -4,7 +4,7 @@ public class NumberRiddleOne{
         int originalInput = 1; //Enter a test value
         System.out.println("You chose: " + originalInput);
         //Converting original number to a double data type
-        double currentInput = 2* originalInput;
+        double currentInput = 2* originalInput; // Multiply number by 2
         System.out.println("Step 1 (Double the number): "+ currentInput);
         // Adding 6 to the number
         currentInput += 6;
